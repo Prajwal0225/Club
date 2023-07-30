@@ -4363,7 +4363,7 @@ body {
 }
 
 .nav-inner-links-3 {
-  color: #3a3a3a;
+  color: black;
   letter-spacing: 1px;
   margin-bottom: 10px;
   font-size: 18px;
@@ -4373,7 +4373,7 @@ body {
 }
 
 .nav-inner-links-3.dark {
-  color: #fff;
+  color:#fff;
 }
 
 .image-86 {
